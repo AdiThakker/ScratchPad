@@ -36,5 +36,24 @@ namespace DataStructures.Core
                         return primes;
                     });
         }
+
+        public int GetGCD(int first, int second)
+        {
+            if (second == 0)
+                throw new ArgumentException("Invalid second number.");
+
+            while (second != 0)
+            {
+                var rem = first % second;
+                first = second;
+                second = rem;
+            }
+            return first;
+        }
+
+        public int GetGCDRecursive(int first, int second)
+        {
+            return second == 0 ? first : GetGCDRecursive(second, first % second);
+        }
     }
 }
