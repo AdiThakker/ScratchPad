@@ -1,0 +1,7 @@
+C:\Projects\Samples\ScratchPad\.vs\ScratchPad\lut\0\b\DataStructures.Core\Debug\netcoreapp2.0\DataStructures.Core.deps.json
+C:\Projects\Samples\ScratchPad\.vs\ScratchPad\lut\0\b\DataStructures.Core\Debug\netcoreapp2.0\DataStructures.Core.dll
+C:\Projects\Samples\ScratchPad\.vs\ScratchPad\lut\0\i\DataStructures.Core\Debug\netcoreapp2.0\DataStructures.Core.csproj.CoreCompileInputs.cache
+C:\Projects\Samples\ScratchPad\.vs\ScratchPad\lut\0\i\DataStructures.Core\Debug\netcoreapp2.0\DataStructures.Core.AssemblyInfoInputs.cache
+C:\Projects\Samples\ScratchPad\.vs\ScratchPad\lut\0\i\DataStructures.Core\Debug\netcoreapp2.0\DataStructures.Core.AssemblyInfo.cs
+C:\Projects\Samples\ScratchPad\.vs\ScratchPad\lut\0\i\DataStructures.Core\Debug\netcoreapp2.0\DataStructures.Core.csproj.CopyComplete
+C:\Projects\Samples\ScratchPad\.vs\ScratchPad\lut\0\i\DataStructures.Core\Debug\netcoreapp2.0\DataStructures.Core.dll

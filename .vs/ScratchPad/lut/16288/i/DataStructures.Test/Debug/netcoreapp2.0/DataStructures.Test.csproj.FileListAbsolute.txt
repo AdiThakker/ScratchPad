@@ -1,0 +1,12 @@
+C:\Projects\Samples\ScratchPad\.vs\ScratchPad\lut\0\b\DataStructures.Test\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Projects\Samples\ScratchPad\.vs\ScratchPad\lut\0\b\DataStructures.Test\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Projects\Samples\ScratchPad\.vs\ScratchPad\lut\0\b\DataStructures.Test\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Projects\Samples\ScratchPad\.vs\ScratchPad\lut\0\b\DataStructures.Test\Debug\netcoreapp2.0\DataStructures.Test.deps.json
+C:\Projects\Samples\ScratchPad\.vs\ScratchPad\lut\0\b\DataStructures.Test\Debug\netcoreapp2.0\DataStructures.Test.runtimeconfig.json
+C:\Projects\Samples\ScratchPad\.vs\ScratchPad\lut\0\b\DataStructures.Test\Debug\netcoreapp2.0\DataStructures.Test.runtimeconfig.dev.json
+C:\Projects\Samples\ScratchPad\.vs\ScratchPad\lut\0\b\DataStructures.Test\Debug\netcoreapp2.0\DataStructures.Test.dll
+C:\Projects\Samples\ScratchPad\.vs\ScratchPad\lut\0\i\DataStructures.Test\Debug\netcoreapp2.0\DataStructures.Test.csproj.CoreCompileInputs.cache
+C:\Projects\Samples\ScratchPad\.vs\ScratchPad\lut\0\i\DataStructures.Test\Debug\netcoreapp2.0\DataStructures.Test.AssemblyInfoInputs.cache
+C:\Projects\Samples\ScratchPad\.vs\ScratchPad\lut\0\i\DataStructures.Test\Debug\netcoreapp2.0\DataStructures.Test.AssemblyInfo.cs
+C:\Projects\Samples\ScratchPad\.vs\ScratchPad\lut\0\i\DataStructures.Test\Debug\netcoreapp2.0\DataStructures.Test.csproj.CopyComplete
+C:\Projects\Samples\ScratchPad\.vs\ScratchPad\lut\0\i\DataStructures.Test\Debug\netcoreapp2.0\DataStructures.Test.dll
